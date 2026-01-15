@@ -1,4 +1,4 @@
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/e223fd3f-82c6-4c14-9eb0-833e69b5d70a" /># Unity 3D – Coordinate System Exercise
+# Unity 3D – Coordinate System Exercise
 
 ## Thông tin
 - Sinh viên: Nanh  
