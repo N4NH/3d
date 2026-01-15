@@ -1,7 +1,8 @@
 # Unity 3D – Coordinate System Exercise
 
 ## Thông tin
-- Sinh viên: Nanh  
+- Sinh viên: Phạm Nhật Anh
+- Mã SV: BCS230012 
 - Công cụ: Unity 2022.3.62f3  
 - Render Pipeline: Built-in Render Pipeline  
 - Nền tảng: Windows  
