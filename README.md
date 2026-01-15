@@ -66,5 +66,4 @@
 ---
 
 ## Kết luận
-Qua bài tập này, sinh viên đã hiểu rõ cách Unity sử dụng hệ tọa độ 3D, cơ chế Camera, Graphics Pipeline và sự khác biệt giữa World Space và Screen Space trong quá trình hiển thị.
-
+Sau khi hoàn thành bài tập này, em đã hiểu rõ hơn về cách Unity sử dụng hệ tọa độ trong không gian 3D cũng như quá trình hiển thị từ World Space lên Screen Space thông qua Camera. Thông qua bài tập, em nhận ra rằng việc nắm vững các khái niệm này là nền tảng quan trọng để làm việc hiệu quả với các đối tượng 3D trong Unity. Bài tập cũng giúp em hiểu rõ hơn về Left-Handed Coordinate System mà Unity sử dụng, đặc biệt là cách vật thể xoay và định hướng trong không gian. Việc quan sát sự thay đổi của Cube khi xoay quanh trục Y giúp em liên hệ trực tiếp giữa lý thuyết và thực tế, từ đó tránh được những nhầm lẫn khi lập trình hoặc thiết kế scene. Ngoài ra, phần làm việc với Camera, Field of View và Clipping Plane giúp em hiểu vì sao cùng một vật thể nhưng có thể trông to, nhỏ hoặc thậm chí biến mất khỏi màn hình. 
